@@ -1,0 +1,1591 @@
+{
+  "AD": {
+    "DisplayName": "Andorra",
+    "Directory": "andorra",
+    "IsoCode": "AD",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:35.1172557+00:00"
+  },
+  "AE": {
+    "DisplayName": "United Arab Emirates",
+    "Directory": "united-arab-emirates",
+    "IsoCode": "AE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:55.0156731+00:00"
+  },
+  "AF": {
+    "DisplayName": "Afghanistan",
+    "Directory": "afghanistan",
+    "IsoCode": "AF",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:35:33.9573292+00:00"
+  },
+  "AG": {
+    "DisplayName": "Antigua and Barbuda",
+    "Directory": "antigua-and-barbuda",
+    "IsoCode": "AG",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:36.400224+00:00"
+  },
+  "AI": {
+    "DisplayName": "Anguilla",
+    "Directory": "anguilla",
+    "IsoCode": "AI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:35.7840358+00:00"
+  },
+  "AL": {
+    "DisplayName": "Albania",
+    "Directory": "albania",
+    "IsoCode": "AL",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:34.2099182+00:00"
+  },
+  "AM": {
+    "DisplayName": "Armenia",
+    "Directory": "armenia",
+    "IsoCode": "AM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:37.0901057+00:00"
+  },
+  "AO": {
+    "DisplayName": "Angola",
+    "Directory": "angola",
+    "IsoCode": "AO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:35.4166047+00:00"
+  },
+  "AQ": {
+    "DisplayName": "Antarctica",
+    "Directory": "antarctica",
+    "IsoCode": "AQ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:36.0420792+00:00"
+  },
+  "AR": {
+    "DisplayName": "Argentina",
+    "Directory": "argentina",
+    "IsoCode": "AR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:36.7197266+00:00"
+  },
+  "AS": {
+    "DisplayName": "American Samoa",
+    "Directory": "american-samoa",
+    "IsoCode": "AS",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:34.8199168+00:00"
+  },
+  "AT": {
+    "DisplayName": "Austria",
+    "Directory": "austria",
+    "IsoCode": "AT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:38.0628297+00:00"
+  },
+  "AU": {
+    "DisplayName": "Australia",
+    "Directory": "australia",
+    "IsoCode": "AU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:37.7163145+00:00"
+  },
+  "AW": {
+    "DisplayName": "Aruba",
+    "Directory": "aruba",
+    "IsoCode": "AW",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:37.4069232+00:00"
+  },
+  "AZ": {
+    "DisplayName": "Azerbaijan",
+    "Directory": "azerbaijan",
+    "IsoCode": "AZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:39.3898669+00:00"
+  },
+  "BA": {
+    "DisplayName": "Bosnia and Herzegovina",
+    "Directory": "bosnia-and-herzegovina",
+    "IsoCode": "BA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:44.3616463+00:00"
+  },
+  "BB": {
+    "DisplayName": "Barbados",
+    "Directory": "barbados",
+    "IsoCode": "BB",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:41.4171534+00:00"
+  },
+  "BD": {
+    "DisplayName": "Bangladesh",
+    "Directory": "bangladesh",
+    "IsoCode": "BD",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:40.9603207+00:00"
+  },
+  "BE": {
+    "DisplayName": "Belgium",
+    "Directory": "belgium",
+    "IsoCode": "BE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:42.0685694+00:00"
+  },
+  "BF": {
+    "DisplayName": "Burkina Faso",
+    "Directory": "burkina-faso",
+    "IsoCode": "BF",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:35:47.8988746+00:00"
+  },
+  "BG": {
+    "DisplayName": "Bulgaria",
+    "Directory": "bulgaria",
+    "IsoCode": "BG",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:47.0804785+00:00"
+  },
+  "BH": {
+    "DisplayName": "Bahrain",
+    "Directory": "bahrain",
+    "IsoCode": "BH",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:40.5403125+00:00"
+  },
+  "BI": {
+    "DisplayName": "Burundi",
+    "Directory": "burundi",
+    "IsoCode": "BI",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:35:48.4169241+00:00"
+  },
+  "BJ": {
+    "DisplayName": "Benin",
+    "Directory": "benin",
+    "IsoCode": "BJ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:42.7052054+00:00"
+  },
+  "BL": {
+    "DisplayName": "Saint-Barth\u00E9lemy",
+    "Directory": "saint-barthelemy",
+    "IsoCode": "BL",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:39.3177807+00:00"
+  },
+  "BM": {
+    "DisplayName": "Bermuda",
+    "Directory": "bermuda",
+    "IsoCode": "BM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:43.0011436+00:00"
+  },
+  "BN": {
+    "DisplayName": "Brunei",
+    "Directory": "brunei",
+    "IsoCode": "BN",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:45.6853132+00:00"
+  },
+  "BO": {
+    "DisplayName": "Bolivia",
+    "Directory": "bolivia",
+    "IsoCode": "BO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:43.6434024+00:00"
+  },
+  "BQ": {
+    "DisplayName": "Bonaire",
+    "Directory": "bonaire",
+    "IsoCode": "BQ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:44.0267842+00:00"
+  },
+  "BR": {
+    "DisplayName": "Brazil",
+    "Directory": "brazil",
+    "IsoCode": "BR",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:45.0386622+00:00"
+  },
+  "BS": {
+    "DisplayName": "Bahamas",
+    "Directory": "bahamas",
+    "IsoCode": "BS",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:40.1944515+00:00"
+  },
+  "BT": {
+    "DisplayName": "Bhutan",
+    "Directory": "bhutan",
+    "IsoCode": "BT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:43.3103714+00:00"
+  },
+  "BW": {
+    "DisplayName": "Botswana",
+    "Directory": "botswana",
+    "IsoCode": "BW",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:44.7032603+00:00"
+  },
+  "BY": {
+    "DisplayName": "Belarus",
+    "Directory": "belarus",
+    "IsoCode": "BY",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:35:41.7402806+00:00"
+  },
+  "BZ": {
+    "DisplayName": "Belize",
+    "Directory": "belize",
+    "IsoCode": "BZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:42.4480187+00:00"
+  },
+  "CD": {
+    "DisplayName": "Democratic Republic of Congo (Kinshasa)",
+    "Directory": "congo-kinshasa",
+    "IsoCode": "CD",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:35:55.2727086+00:00"
+  },
+  "CF": {
+    "DisplayName": "Central African Republic",
+    "Directory": "central-african-republic",
+    "IsoCode": "CF",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:35:50.3020146+00:00"
+  },
+  "CG": {
+    "DisplayName": "Republic of Congo (Brazzaville)",
+    "Directory": "congo-brazzaville",
+    "IsoCode": "CG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:37.4633495+00:00"
+  },
+  "CH": {
+    "DisplayName": "Switzerland",
+    "Directory": "switzerland",
+    "IsoCode": "CH",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:49.7035991+00:00"
+  },
+  "CI": {
+    "DisplayName": "C\u00F4te d\u0027Ivoire (Ivory Coast)",
+    "Directory": "cote-d-ivoire-ivory-coast",
+    "IsoCode": "CI",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:53.2141316+00:00"
+  },
+  "CK": {
+    "DisplayName": "Cook Islands",
+    "Directory": "cook-islands",
+    "IsoCode": "CK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:52.385651+00:00"
+  },
+  "CL": {
+    "DisplayName": "Chile",
+    "Directory": "chile",
+    "IsoCode": "CL",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:51.008993+00:00"
+  },
+  "CM": {
+    "DisplayName": "Cameroon",
+    "Directory": "cameroon",
+    "IsoCode": "CM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:49.5780793+00:00"
+  },
+  "CN": {
+    "DisplayName": "China",
+    "Directory": "china",
+    "IsoCode": "CN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:51.4446224+00:00"
+  },
+  "CO": {
+    "DisplayName": "Colombia",
+    "Directory": "colombia",
+    "IsoCode": "CO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:51.7591661+00:00"
+  },
+  "CR": {
+    "DisplayName": "Costa Rica",
+    "Directory": "costa-rica",
+    "IsoCode": "CR",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:52.8760457+00:00"
+  },
+  "CU": {
+    "DisplayName": "Cuba",
+    "Directory": "cuba",
+    "IsoCode": "CU",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:54.0299632+00:00"
+  },
+  "CV": {
+    "DisplayName": "Cabo Verde",
+    "Directory": "cabo-verde",
+    "IsoCode": "CV",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:48.8180337+00:00"
+  },
+  "CW": {
+    "DisplayName": "Cura\u00E7ao",
+    "Directory": "curacao",
+    "IsoCode": "CW",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:54.37511+00:00"
+  },
+  "CY": {
+    "DisplayName": "Cyprus",
+    "Directory": "cyprus",
+    "IsoCode": "CY",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:54.697916+00:00"
+  },
+  "CZ": {
+    "DisplayName": "Czechia",
+    "Directory": "czechia",
+    "IsoCode": "CZ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:55.0136997+00:00"
+  },
+  "DE": {
+    "DisplayName": "Germany",
+    "Directory": "germany",
+    "IsoCode": "DE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:05.3599974+00:00"
+  },
+  "DJ": {
+    "DisplayName": "Djibouti",
+    "Directory": "djibouti",
+    "IsoCode": "DJ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:58.23266+00:00"
+  },
+  "DK": {
+    "DisplayName": "Denmark",
+    "Directory": "denmark",
+    "IsoCode": "DK",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:57.4667769+00:00"
+  },
+  "DM": {
+    "DisplayName": "Dominica",
+    "Directory": "dominica",
+    "IsoCode": "DM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:58.6227905+00:00"
+  },
+  "DO": {
+    "DisplayName": "Dominican Republic",
+    "Directory": "dominican-republic",
+    "IsoCode": "DO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:59.0407428+00:00"
+  },
+  "DZ": {
+    "DisplayName": "Algeria",
+    "Directory": "algeria",
+    "IsoCode": "DZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:34.5180405+00:00"
+  },
+  "EC": {
+    "DisplayName": "Ecuador",
+    "Directory": "ecuador",
+    "IsoCode": "EC",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:59.5194883+00:00"
+  },
+  "EE": {
+    "DisplayName": "Estonia",
+    "Directory": "estonia",
+    "IsoCode": "EE",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:01.3090491+00:00"
+  },
+  "EG": {
+    "DisplayName": "Egypt",
+    "Directory": "egypt",
+    "IsoCode": "EG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:59.9050034+00:00"
+  },
+  "ER": {
+    "DisplayName": "Eritrea",
+    "Directory": "eritrea",
+    "IsoCode": "ER",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:00.9526929+00:00"
+  },
+  "ES": {
+    "DisplayName": "Spain",
+    "Directory": "spain",
+    "IsoCode": "ES",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:48.0593921+00:00"
+  },
+  "ET": {
+    "DisplayName": "Ethiopia",
+    "Directory": "ethiopia",
+    "IsoCode": "ET",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:02.0830393+00:00"
+  },
+  "FI": {
+    "DisplayName": "Finland",
+    "Directory": "finland",
+    "IsoCode": "FI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:02.9896064+00:00"
+  },
+  "FJ": {
+    "DisplayName": "Fiji",
+    "Directory": "fiji",
+    "IsoCode": "FJ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:02.6686925+00:00"
+  },
+  "FK": {
+    "DisplayName": "Falkland Islands",
+    "Directory": "falkland-islands",
+    "IsoCode": "FK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:02.4105472+00:00"
+  },
+  "FM": {
+    "DisplayName": "Micronesia (FSM)",
+    "Directory": "micronesia-fsm",
+    "IsoCode": "FM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:23.2806363+00:00"
+  },
+  "FR": {
+    "DisplayName": "France",
+    "Directory": "france",
+    "IsoCode": "FR",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:03.3415755+00:00"
+  },
+  "GA": {
+    "DisplayName": "Gabon",
+    "Directory": "gabon",
+    "IsoCode": "GA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:04.395243+00:00"
+  },
+  "GB": {
+    "DisplayName": "United Kingdom",
+    "Directory": "united-kingdom",
+    "IsoCode": "GB",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:55.2988878+00:00"
+  },
+  "GD": {
+    "DisplayName": "Grenada",
+    "Directory": "grenada",
+    "IsoCode": "GD",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:06.9779258+00:00"
+  },
+  "GE": {
+    "DisplayName": "Georgia",
+    "Directory": "georgia",
+    "IsoCode": "GE",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:05.0318566+00:00"
+  },
+  "GF": {
+    "DisplayName": "French Guiana",
+    "Directory": "french-guiana",
+    "IsoCode": "GF",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:03.6723195+00:00"
+  },
+  "GH": {
+    "DisplayName": "Ghana",
+    "Directory": "ghana",
+    "IsoCode": "GH",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:05.6853184+00:00"
+  },
+  "GI": {
+    "DisplayName": "Gibraltar",
+    "Directory": "gibraltar",
+    "IsoCode": "GI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:06.0630687+00:00"
+  },
+  "GL": {
+    "DisplayName": "Greenland",
+    "Directory": "greenland",
+    "IsoCode": "GL",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:06.6464622+00:00"
+  },
+  "GM": {
+    "DisplayName": "Gambia, The",
+    "Directory": "gambia-the",
+    "IsoCode": "GM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:04.7040912+00:00"
+  },
+  "GN": {
+    "DisplayName": "Guinea",
+    "Directory": "guinea",
+    "IsoCode": "GN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:08.2129721+00:00"
+  },
+  "GP": {
+    "DisplayName": "Guadeloupe",
+    "Directory": "guadeloupe",
+    "IsoCode": "GP",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:07.3055544+00:00"
+  },
+  "GQ": {
+    "DisplayName": "Equatorial Guinea",
+    "Directory": "equatorial-guinea",
+    "IsoCode": "GQ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:00.6308966+00:00"
+  },
+  "GR": {
+    "DisplayName": "Greece",
+    "Directory": "greece",
+    "IsoCode": "GR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:06.3876691+00:00"
+  },
+  "GT": {
+    "DisplayName": "Guatemala",
+    "Directory": "guatemala",
+    "IsoCode": "GT",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:07.8865625+00:00"
+  },
+  "GU": {
+    "DisplayName": "Guam",
+    "Directory": "guam",
+    "IsoCode": "GU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:07.6298361+00:00"
+  },
+  "GW": {
+    "DisplayName": "Guinea-Bissau",
+    "Directory": "guinea-bissau",
+    "IsoCode": "GW",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:08.5406216+00:00"
+  },
+  "GY": {
+    "DisplayName": "Guyana",
+    "Directory": "guyana",
+    "IsoCode": "GY",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:08.8566809+00:00"
+  },
+  "HK": {
+    "DisplayName": "Hong Kong",
+    "Directory": "hong-kong",
+    "IsoCode": "HK",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:09.7863711+00:00"
+  },
+  "HN": {
+    "DisplayName": "Honduras",
+    "Directory": "honduras",
+    "IsoCode": "HN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:09.4295282+00:00"
+  },
+  "HR": {
+    "DisplayName": "Croatia",
+    "Directory": "croatia",
+    "IsoCode": "HR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:53.680557+00:00"
+  },
+  "HT": {
+    "DisplayName": "Haiti",
+    "Directory": "haiti",
+    "IsoCode": "HT",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:09.1819311+00:00"
+  },
+  "HU": {
+    "DisplayName": "Hungary",
+    "Directory": "hungary",
+    "IsoCode": "HU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:10.0941668+00:00"
+  },
+  "ID": {
+    "DisplayName": "Indonesia",
+    "Directory": "indonesia",
+    "IsoCode": "ID",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:11.1385387+00:00"
+  },
+  "IE": {
+    "DisplayName": "Ireland",
+    "Directory": "ireland",
+    "IsoCode": "IE",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:12.0833+00:00"
+  },
+  "IL": {
+    "DisplayName": "Israel, the West Bank and the Gaza Strip",
+    "Directory": "israel-the-west-bank-and-the-gaza-strip",
+    "IsoCode": "IL",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:12.4081619+00:00"
+  },
+  "IN": {
+    "DisplayName": "India",
+    "Directory": "india",
+    "IsoCode": "IN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:10.790372+00:00"
+  },
+  "IQ": {
+    "DisplayName": "Iraq",
+    "Directory": "iraq",
+    "IsoCode": "IQ",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:11.7666198+00:00"
+  },
+  "IR": {
+    "DisplayName": "Iran",
+    "Directory": "iran",
+    "IsoCode": "IR",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:11.4487952+00:00"
+  },
+  "IS": {
+    "DisplayName": "Iceland",
+    "Directory": "iceland",
+    "IsoCode": "IS",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:10.4171171+00:00"
+  },
+  "IT": {
+    "DisplayName": "Italy",
+    "Directory": "italy",
+    "IsoCode": "IT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:12.7469744+00:00"
+  },
+  "JM": {
+    "DisplayName": "Jamaica",
+    "Directory": "jamaica",
+    "IsoCode": "JM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:13.0652486+00:00"
+  },
+  "JO": {
+    "DisplayName": "Jordan",
+    "Directory": "jordan",
+    "IsoCode": "JO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:13.6980274+00:00"
+  },
+  "JP": {
+    "DisplayName": "Japan",
+    "Directory": "japan",
+    "IsoCode": "JP",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:13.3783217+00:00"
+  },
+  "KE": {
+    "DisplayName": "Kenya",
+    "Directory": "kenya",
+    "IsoCode": "KE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:14.3702854+00:00"
+  },
+  "KG": {
+    "DisplayName": "Kyrgyzstan",
+    "Directory": "kyrgyzstan",
+    "IsoCode": "KG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:15.7002919+00:00"
+  },
+  "KH": {
+    "DisplayName": "Cambodia",
+    "Directory": "cambodia",
+    "IsoCode": "KH",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:49.2536523+00:00"
+  },
+  "KI": {
+    "DisplayName": "Kiribati",
+    "Directory": "kiribati",
+    "IsoCode": "KI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:14.705576+00:00"
+  },
+  "KM": {
+    "DisplayName": "Comoros",
+    "Directory": "comoros",
+    "IsoCode": "KM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:35:52.0811459+00:00"
+  },
+  "KN": {
+    "DisplayName": "Saint Kitts and Nevis",
+    "Directory": "saint-kitts-and-nevis",
+    "IsoCode": "KN",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:40.6629151+00:00"
+  },
+  "KP": {
+    "DisplayName": "North Korea",
+    "Directory": "north-korea",
+    "IsoCode": "KP",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:29.4298982+00:00"
+  },
+  "KR": {
+    "DisplayName": "South Korea",
+    "Directory": "south-korea",
+    "IsoCode": "KR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:47.4093464+00:00"
+  },
+  "KW": {
+    "DisplayName": "Kuwait",
+    "Directory": "kuwait",
+    "IsoCode": "KW",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:15.3570522+00:00"
+  },
+  "KY": {
+    "DisplayName": "Cayman Islands",
+    "Directory": "cayman-islands",
+    "IsoCode": "KY",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:49.9528742+00:00"
+  },
+  "KZ": {
+    "DisplayName": "Kazakhstan",
+    "Directory": "kazakhstan",
+    "IsoCode": "KZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:14.0310432+00:00"
+  },
+  "LA": {
+    "DisplayName": "Laos",
+    "Directory": "laos",
+    "IsoCode": "LA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:16.0271949+00:00"
+  },
+  "LB": {
+    "DisplayName": "Lebanon",
+    "Directory": "lebanon",
+    "IsoCode": "LB",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:16.6930864+00:00"
+  },
+  "LC": {
+    "DisplayName": "Saint Lucia",
+    "Directory": "saint-lucia",
+    "IsoCode": "LC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:41.6996373+00:00"
+  },
+  "LI": {
+    "DisplayName": "Liechtenstein",
+    "Directory": "liechtenstein",
+    "IsoCode": "LI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:17.9309148+00:00"
+  },
+  "LK": {
+    "DisplayName": "Sri Lanka",
+    "Directory": "sri-lanka",
+    "IsoCode": "LK",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:48.3801686+00:00"
+  },
+  "LR": {
+    "DisplayName": "Liberia",
+    "Directory": "liberia",
+    "IsoCode": "LR",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:17.2755865+00:00"
+  },
+  "LS": {
+    "DisplayName": "Lesotho",
+    "Directory": "lesotho",
+    "IsoCode": "LS",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:17.0150838+00:00"
+  },
+  "LT": {
+    "DisplayName": "Lithuania",
+    "Directory": "lithuania",
+    "IsoCode": "LT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:18.2565245+00:00"
+  },
+  "LU": {
+    "DisplayName": "Luxembourg",
+    "Directory": "luxembourg",
+    "IsoCode": "LU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:18.5781379+00:00"
+  },
+  "LV": {
+    "DisplayName": "Latvia",
+    "Directory": "latvia",
+    "IsoCode": "LV",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:16.3711867+00:00"
+  },
+  "LY": {
+    "DisplayName": "Libya",
+    "Directory": "libya",
+    "IsoCode": "LY",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:17.6063983+00:00"
+  },
+  "MA": {
+    "DisplayName": "Morocco",
+    "Directory": "morocco",
+    "IsoCode": "MA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:25.2062407+00:00"
+  },
+  "MC": {
+    "DisplayName": "Monaco",
+    "Directory": "monaco",
+    "IsoCode": "MC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:23.9694353+00:00"
+  },
+  "MD": {
+    "DisplayName": "Moldova",
+    "Directory": "moldova",
+    "IsoCode": "MD",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:23.6993989+00:00"
+  },
+  "ME": {
+    "DisplayName": "Montenegro",
+    "Directory": "montenegro",
+    "IsoCode": "ME",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:24.618164+00:00"
+  },
+  "MF": {
+    "DisplayName": "Saint Martin",
+    "Directory": "saint-martin",
+    "IsoCode": "MF",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:42.0227519+00:00"
+  },
+  "MG": {
+    "DisplayName": "Madagascar",
+    "Directory": "madagascar",
+    "IsoCode": "MG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:19.2208363+00:00"
+  },
+  "MH": {
+    "DisplayName": "Marshall Islands",
+    "Directory": "marshall-islands",
+    "IsoCode": "MH",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:21.1432945+00:00"
+  },
+  "MK": {
+    "DisplayName": "North Macedonia",
+    "Directory": "north-macedonia",
+    "IsoCode": "MK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:29.8379336+00:00"
+  },
+  "ML": {
+    "DisplayName": "Mali",
+    "Directory": "mali",
+    "IsoCode": "ML",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:20.4216071+00:00"
+  },
+  "MM": {
+    "DisplayName": "Myanmar",
+    "Directory": "myanmar",
+    "IsoCode": "MM",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:25.8682904+00:00"
+  },
+  "MN": {
+    "DisplayName": "Mongolia",
+    "Directory": "mongolia",
+    "IsoCode": "MN",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:24.2934691+00:00"
+  },
+  "MO": {
+    "DisplayName": "Macao",
+    "Directory": "macao",
+    "IsoCode": "MO",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:18.9005037+00:00"
+  },
+  "MP": {
+    "DisplayName": "Northern Marianas",
+    "Directory": "northern-marianas",
+    "IsoCode": "MP",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:30.100757+00:00"
+  },
+  "MQ": {
+    "DisplayName": "Martinique",
+    "Directory": "martinique",
+    "IsoCode": "MQ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:21.4604967+00:00"
+  },
+  "MR": {
+    "DisplayName": "Mauritania",
+    "Directory": "mauritania",
+    "IsoCode": "MR",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:21.8192198+00:00"
+  },
+  "MS": {
+    "DisplayName": "Montserrat",
+    "Directory": "montserrat",
+    "IsoCode": "MS",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:24.9555603+00:00"
+  },
+  "MT": {
+    "DisplayName": "Malta",
+    "Directory": "malta",
+    "IsoCode": "MT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:20.7764213+00:00"
+  },
+  "MU": {
+    "DisplayName": "Mauritius",
+    "Directory": "mauritius",
+    "IsoCode": "MU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:22.1702788+00:00"
+  },
+  "MV": {
+    "DisplayName": "Maldives",
+    "Directory": "maldives",
+    "IsoCode": "MV",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:20.1186194+00:00"
+  },
+  "MW": {
+    "DisplayName": "Malawi",
+    "Directory": "malawi",
+    "IsoCode": "MW",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:19.5416056+00:00"
+  },
+  "MX": {
+    "DisplayName": "Mexico",
+    "Directory": "mexico",
+    "IsoCode": "MX",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:22.9512743+00:00"
+  },
+  "MY": {
+    "DisplayName": "Malaysia",
+    "Directory": "malaysia",
+    "IsoCode": "MY",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:19.8482523+00:00"
+  },
+  "MZ": {
+    "DisplayName": "Mozambique",
+    "Directory": "mozambique",
+    "IsoCode": "MZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:25.541045+00:00"
+  },
+  "NA": {
+    "DisplayName": "Namibia",
+    "Directory": "namibia",
+    "IsoCode": "NA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:26.1946161+00:00"
+  },
+  "NC": {
+    "DisplayName": "New Caledonia",
+    "Directory": "new-caledonia",
+    "IsoCode": "NC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:27.5161246+00:00"
+  },
+  "NE": {
+    "DisplayName": "Niger",
+    "Directory": "niger",
+    "IsoCode": "NE",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:28.5045659+00:00"
+  },
+  "NG": {
+    "DisplayName": "Nigeria",
+    "Directory": "nigeria",
+    "IsoCode": "NG",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:28.7677006+00:00"
+  },
+  "NI": {
+    "DisplayName": "Nicaragua",
+    "Directory": "nicaragua",
+    "IsoCode": "NI",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:28.1665444+00:00"
+  },
+  "NL": {
+    "DisplayName": "Netherlands",
+    "Directory": "netherlands",
+    "IsoCode": "NL",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:27.198857+00:00"
+  },
+  "NO": {
+    "DisplayName": "Norway",
+    "Directory": "norway",
+    "IsoCode": "NO",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:30.4242904+00:00"
+  },
+  "NP": {
+    "DisplayName": "Nepal",
+    "Directory": "nepal",
+    "IsoCode": "NP",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:26.8741116+00:00"
+  },
+  "NR": {
+    "DisplayName": "Nauru",
+    "Directory": "nauru",
+    "IsoCode": "NR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:26.5360696+00:00"
+  },
+  "NU": {
+    "DisplayName": "Niue",
+    "Directory": "niue",
+    "IsoCode": "NU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:29.1086637+00:00"
+  },
+  "NZ": {
+    "DisplayName": "New Zealand",
+    "Directory": "new-zealand",
+    "IsoCode": "NZ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:27.8372851+00:00"
+  },
+  "OM": {
+    "DisplayName": "Oman",
+    "Directory": "oman",
+    "IsoCode": "OM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:31.7526053+00:00"
+  },
+  "PA": {
+    "DisplayName": "Panama",
+    "Directory": "panama",
+    "IsoCode": "PA",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:33.5315981+00:00"
+  },
+  "PE": {
+    "DisplayName": "Peru",
+    "Directory": "peru",
+    "IsoCode": "PE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:34.9802952+00:00"
+  },
+  "PF": {
+    "DisplayName": "French Polynesia",
+    "Directory": "french-polynesia",
+    "IsoCode": "PF",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:04.0415011+00:00"
+  },
+  "PG": {
+    "DisplayName": "Papua New Guinea",
+    "Directory": "papua-new-guinea",
+    "IsoCode": "PG",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:36:34.0185106+00:00"
+  },
+  "PH": {
+    "DisplayName": "Philippines",
+    "Directory": "philippines",
+    "IsoCode": "PH",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:35.3919188+00:00"
+  },
+  "PK": {
+    "DisplayName": "Pakistan",
+    "Directory": "pakistan",
+    "IsoCode": "PK",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:32.7357787+00:00"
+  },
+  "PL": {
+    "DisplayName": "Poland",
+    "Directory": "poland",
+    "IsoCode": "PL",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:35.8031642+00:00"
+  },
+  "PR": {
+    "DisplayName": "Puerto Rico",
+    "Directory": "puerto-rico",
+    "IsoCode": "PR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:36.548098+00:00"
+  },
+  "PT": {
+    "DisplayName": "Portugal",
+    "Directory": "portugal",
+    "IsoCode": "PT",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:36.1601156+00:00"
+  },
+  "PW": {
+    "DisplayName": "Palau",
+    "Directory": "palau",
+    "IsoCode": "PW",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:33.1824617+00:00"
+  },
+  "PY": {
+    "DisplayName": "Paraguay",
+    "Directory": "paraguay",
+    "IsoCode": "PY",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:34.3811157+00:00"
+  },
+  "QA": {
+    "DisplayName": "Qatar",
+    "Directory": "qatar",
+    "IsoCode": "QA",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:37.1064764+00:00"
+  },
+  "RE": {
+    "DisplayName": "R\u00E9union",
+    "Directory": "reunion",
+    "IsoCode": "RE",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:37.9077259+00:00"
+  },
+  "RO": {
+    "DisplayName": "Romania",
+    "Directory": "romania",
+    "IsoCode": "RO",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:38.3237998+00:00"
+  },
+  "RS": {
+    "DisplayName": "Serbia",
+    "Directory": "serbia",
+    "IsoCode": "RS",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:44.3496419+00:00"
+  },
+  "RU": {
+    "DisplayName": "Russia",
+    "Directory": "russia",
+    "IsoCode": "RU",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:38.710535+00:00"
+  },
+  "RW": {
+    "DisplayName": "Rwanda",
+    "Directory": "rwanda",
+    "IsoCode": "RW",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:39.0192807+00:00"
+  },
+  "SA": {
+    "DisplayName": "Saudi Arabia",
+    "Directory": "saudi-arabia",
+    "IsoCode": "SA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:43.7924214+00:00"
+  },
+  "SB": {
+    "DisplayName": "Solomon Islands",
+    "Directory": "solomon-islands",
+    "IsoCode": "SB",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:46.496856+00:00"
+  },
+  "SC": {
+    "DisplayName": "Seychelles",
+    "Directory": "seychelles",
+    "IsoCode": "SC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:44.6465141+00:00"
+  },
+  "SD": {
+    "DisplayName": "Sudan",
+    "Directory": "sudan",
+    "IsoCode": "SD",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:48.7119115+00:00"
+  },
+  "SE": {
+    "DisplayName": "Sweden",
+    "Directory": "sweden",
+    "IsoCode": "SE",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:49.3475477+00:00"
+  },
+  "SG": {
+    "DisplayName": "Singapore",
+    "Directory": "singapore",
+    "IsoCode": "SG",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:45.1533383+00:00"
+  },
+  "SI": {
+    "DisplayName": "Slovenia",
+    "Directory": "slovenia",
+    "IsoCode": "SI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:46.1044694+00:00"
+  },
+  "SK": {
+    "DisplayName": "Slovakia",
+    "Directory": "slovakia",
+    "IsoCode": "SK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:45.7514813+00:00"
+  },
+  "SL": {
+    "DisplayName": "Sierra Leone",
+    "Directory": "sierra-leone",
+    "IsoCode": "SL",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:44.8614822+00:00"
+  },
+  "SM": {
+    "DisplayName": "San Marino",
+    "Directory": "san-marino",
+    "IsoCode": "SM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:43.1117358+00:00"
+  },
+  "SN": {
+    "DisplayName": "Senegal",
+    "Directory": "senegal",
+    "IsoCode": "SN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:44.0486226+00:00"
+  },
+  "SO": {
+    "DisplayName": "Somalia",
+    "Directory": "somalia",
+    "IsoCode": "SO",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:46.7871119+00:00"
+  },
+  "SR": {
+    "DisplayName": "Suriname",
+    "Directory": "suriname",
+    "IsoCode": "SR",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:49.0346503+00:00"
+  },
+  "SS": {
+    "DisplayName": "South Sudan",
+    "Directory": "south-sudan",
+    "IsoCode": "SS",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:47.7206987+00:00"
+  },
+  "ST": {
+    "DisplayName": "Sao Tome and Principe",
+    "Directory": "sao-tome-and-principe",
+    "IsoCode": "ST",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:43.4212354+00:00"
+  },
+  "SV": {
+    "DisplayName": "El Salvador",
+    "Directory": "el-salvador",
+    "IsoCode": "SV",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:00.3025363+00:00"
+  },
+  "SX": {
+    "DisplayName": "Sint Maarten",
+    "Directory": "sint-maarten",
+    "IsoCode": "SX",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:45.461678+00:00"
+  },
+  "SY": {
+    "DisplayName": "Syria",
+    "Directory": "syria",
+    "IsoCode": "SY",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:50.017222+00:00"
+  },
+  "SZ": {
+    "DisplayName": "Eswatini",
+    "Directory": "eswatini",
+    "IsoCode": "SZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:01.7608875+00:00"
+  },
+  "TC": {
+    "DisplayName": "Turks and Caicos Islands",
+    "Directory": "turks-and-caicos-islands",
+    "IsoCode": "TC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:53.7238472+00:00"
+  },
+  "TD": {
+    "DisplayName": "Chad",
+    "Directory": "chad",
+    "IsoCode": "TD",
+    "Level": 3,
+    "LastUpdated": "2023-10-23T03:35:50.6385914+00:00"
+  },
+  "TG": {
+    "DisplayName": "Togo",
+    "Directory": "togo",
+    "IsoCode": "TG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:51.6310656+00:00"
+  },
+  "TH": {
+    "DisplayName": "Thailand",
+    "Directory": "thailand",
+    "IsoCode": "TH",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:51.0663037+00:00"
+  },
+  "TJ": {
+    "DisplayName": "Tajikistan",
+    "Directory": "tajikistan",
+    "IsoCode": "TJ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:50.608205+00:00"
+  },
+  "TK": {
+    "DisplayName": "Tokelau",
+    "Directory": "tokelau",
+    "IsoCode": "TK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:51.9567162+00:00"
+  },
+  "TL": {
+    "DisplayName": "Timor-Leste (East Timor)",
+    "Directory": "timor-leste-east-timor",
+    "IsoCode": "TL",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:51.3503037+00:00"
+  },
+  "TM": {
+    "DisplayName": "Turkmenistan",
+    "Directory": "turkmenistan",
+    "IsoCode": "TM",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:53.4295275+00:00"
+  },
+  "TN": {
+    "DisplayName": "Tunisia",
+    "Directory": "tunisia",
+    "IsoCode": "TN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:52.8366234+00:00"
+  },
+  "TO": {
+    "DisplayName": "Tonga",
+    "Directory": "tonga",
+    "IsoCode": "TO",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:52.2479138+00:00"
+  },
+  "TR": {
+    "DisplayName": "T\u00FCrkiye",
+    "Directory": "turkiye",
+    "IsoCode": "TR",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:53.1398859+00:00"
+  },
+  "TT": {
+    "DisplayName": "Trinidad and Tobago",
+    "Directory": "trinidad-and-tobago",
+    "IsoCode": "TT",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:52.5432938+00:00"
+  },
+  "TV": {
+    "DisplayName": "Tuvalu",
+    "Directory": "tuvalu",
+    "IsoCode": "TV",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:54.031753+00:00"
+  },
+  "TW": {
+    "DisplayName": "Taiwan",
+    "Directory": "taiwan",
+    "IsoCode": "TW",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:50.3169439+00:00"
+  },
+  "TZ": {
+    "DisplayName": "Tanzania",
+    "Directory": "tanzania",
+    "IsoCode": "TZ",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:50.8510011+00:00"
+  },
+  "UA": {
+    "DisplayName": "Ukraine",
+    "Directory": "ukraine",
+    "IsoCode": "UA",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:54.6120176+00:00"
+  },
+  "UG": {
+    "DisplayName": "Uganda",
+    "Directory": "uganda",
+    "IsoCode": "UG",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:54.3166131+00:00"
+  },
+  "US": {
+    "DisplayName": "United States",
+    "Directory": "united-states",
+    "IsoCode": "US",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:55.6085264+00:00"
+  },
+  "UY": {
+    "DisplayName": "Uruguay",
+    "Directory": "uruguay",
+    "IsoCode": "UY",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:55.9033391+00:00"
+  },
+  "UZ": {
+    "DisplayName": "Uzbekistan",
+    "Directory": "uzbekistan",
+    "IsoCode": "UZ",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:56.1794301+00:00"
+  },
+  "VC": {
+    "DisplayName": "Saint Vincent \u0026 the Grenadines",
+    "Directory": "saint-vincent-the-grenadines",
+    "IsoCode": "VC",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:42.3931206+00:00"
+  },
+  "VE": {
+    "DisplayName": "Venezuela",
+    "Directory": "venezuela",
+    "IsoCode": "VE",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:56.7638387+00:00"
+  },
+  "VG": {
+    "DisplayName": "British Virgin Islands",
+    "Directory": "british-virgin-islands",
+    "IsoCode": "VG",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:35:45.3598143+00:00"
+  },
+  "VI": {
+    "DisplayName": "Virgin Islands (U.S.)",
+    "Directory": "virgin-islands-u-s",
+    "IsoCode": "VI",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:57.3690861+00:00"
+  },
+  "VN": {
+    "DisplayName": "Vietnam",
+    "Directory": "vietnam",
+    "IsoCode": "VN",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:57.0616041+00:00"
+  },
+  "VU": {
+    "DisplayName": "Vanuatu",
+    "Directory": "vanuatu",
+    "IsoCode": "VU",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:56.4737336+00:00"
+  },
+  "WS": {
+    "DisplayName": "Samoa",
+    "Directory": "samoa",
+    "IsoCode": "WS",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:42.8172693+00:00"
+  },
+  "XK": {
+    "DisplayName": "Kosovo",
+    "Directory": "kosovo",
+    "IsoCode": "XK",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:15.0256067+00:00"
+  },
+  "YE": {
+    "DisplayName": "Yemen",
+    "Directory": "yemen",
+    "IsoCode": "YE",
+    "Level": 4,
+    "LastUpdated": "2023-10-23T03:36:57.7112348+00:00"
+  },
+  "YT": {
+    "DisplayName": "Mayotte",
+    "Directory": "mayotte",
+    "IsoCode": "YT",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:22.522763+00:00"
+  },
+  "ZA": {
+    "DisplayName": "South Africa",
+    "Directory": "south-africa",
+    "IsoCode": "ZA",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:47.100965+00:00"
+  },
+  "ZM": {
+    "DisplayName": "Zambia",
+    "Directory": "zambia",
+    "IsoCode": "ZM",
+    "Level": 1,
+    "LastUpdated": "2023-10-23T03:36:57.9992579+00:00"
+  },
+  "ZW": {
+    "DisplayName": "Zimbabwe",
+    "Directory": "zimbabwe",
+    "IsoCode": "ZW",
+    "Level": 2,
+    "LastUpdated": "2023-10-23T03:36:58.2829784+00:00"
+  }
+}
